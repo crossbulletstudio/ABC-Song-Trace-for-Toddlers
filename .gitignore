@@ -1,0 +1,25 @@
+# Unity
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+Logs/
+
+# Xcode
+DerivedData/
+*.xcworkspace
+xcuserdata/
+*.xcuserstate
+
+# macOS
+.DS_Store
+
+# IMPORTANT (fix your GitHub error)
+Libraries/
+Data/
+Pods/
+
+# Build outputs
+*.ipa
+*.app
