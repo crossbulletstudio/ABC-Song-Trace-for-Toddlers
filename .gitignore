@@ -16,8 +16,6 @@ xcuserdata/
 .DS_Store
 
 # IMPORTANT (fix your GitHub error)
-Libraries/
-Data/
 Pods/
 
 # Build outputs
